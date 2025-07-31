@@ -17,22 +17,5 @@
     ],
     "dimensions": "50x50 cm",
     "created": "2025-07-31"
-  },
-  {
-    "id": "1753972572551",
-    "title": "beta5",
-    "category": "painting",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1753972570793.JPG"
-    ],
-    "shortDescription": "nice",
-    "fullDescription": "nice",
-    "story": "The creation story of this work will be added later.",
-    "price": "$65",
-    "materials": [
-      "wool"
-    ],
-    "dimensions": "large",
-    "created": "2025-07-31"
   }
 ]
