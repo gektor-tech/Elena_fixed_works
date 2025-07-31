@@ -1,13 +1,13 @@
 [
   {
-    "id": "1753965753257",
-    "title": "beta4",
+    "id": "1753966642618",
+    "title": "beta5",
     "category": "clothing",
     "images": [
-      "blob:http://localhost:8080/aa842cb9-a7aa-4698-8baf-7f4e1e4148a6"
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1753966641036.JPG"
     ],
-    "shortDescription": "nice",
-    "fullDescription": "nice",
+    "shortDescription": "good",
+    "fullDescription": "good",
     "story": "The creation story of this work will be added later.",
     "price": "$65",
     "materials": [
