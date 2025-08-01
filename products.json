@@ -36,5 +36,24 @@
     ],
     "dimensions": "50x50 cm",
     "created": "2025-08-01"
+  },
+  {
+    "id": "1754030089575",
+    "title": "Starry Night jacket",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1754030087021.JPG"
+    ],
+    "shortDescription": "Inspired by Van Gogh &quot;Starry night &quot;picture jacket.",
+    "fullDescription": "&quot;Starry night&quot; picture motive was put on front and partly on sleeves.",
+    "story": "The creation story of this work will be added later.",
+    "price": "SOLD OUT",
+    "materials": [
+      "wool",
+      "silk",
+      "viscose"
+    ],
+    "dimensions": "M-L",
+    "created": "2025-08-01"
   }
 ]
