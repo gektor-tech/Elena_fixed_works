@@ -54,5 +54,24 @@
     ],
     "dimensions": "M",
     "created": "2025-08-02"
+  },
+  {
+    "id": "1754097672061",
+    "title": "Spring coat",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1754097670661.png"
+    ],
+    "shortDescription": "Tan color wool, silk, viscose long coat decorated with silk and viscose flowers. Long sleeves decorated the same way.",
+    "fullDescription": "Tan color wool, silk, viscose long coat decorated with silk and viscose flowers. Long sleeves decorated the same way.",
+    "story": "The creation story of this work will be added later.",
+    "price": "SOLD OUT",
+    "materials": [
+      "Wool",
+      "silk",
+      "viscose"
+    ],
+    "dimensions": "S",
+    "created": "2025-08-02"
   }
 ]
