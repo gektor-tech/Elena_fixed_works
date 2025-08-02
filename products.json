@@ -73,5 +73,24 @@
     ],
     "dimensions": "S",
     "created": "2025-08-02"
+  },
+  {
+    "id": "1754101027140",
+    "title": "Tie",
+    "category": "accessories",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1754101024918.png"
+    ],
+    "shortDescription": "Woman tie with the loop. Easy to tie using that loop.",
+    "fullDescription": "Woman tie with the loop. Easy to tie using that loop.",
+    "story": "The creation story of this work will be added later.",
+    "price": "40$ each",
+    "materials": [
+      "Wool",
+      "silk",
+      "viscose"
+    ],
+    "dimensions": "50x50 cm",
+    "created": "2025-08-02"
   }
 ]
