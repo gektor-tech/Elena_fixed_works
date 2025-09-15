@@ -111,5 +111,24 @@
     ],
     "dimensions": "M-L",
     "created": "2025-08-20"
+  },
+  {
+    "id": "1757917171474",
+    "title": "Be warm in fall",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1757917165668.png"
+    ],
+    "shortDescription": "viscose jacket with 2 pockets lined",
+    "fullDescription": "viscose jacket with 2 pockets lined",
+    "story": "The creation story of this work will be added later.",
+    "price": "$180",
+    "materials": [
+      "Wool",
+      "silk",
+      "viscose"
+    ],
+    "dimensions": "M-L",
+    "created": "2025-09-15"
   }
 ]
