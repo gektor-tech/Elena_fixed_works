@@ -130,5 +130,24 @@
     ],
     "dimensions": "M-L",
     "created": "2025-09-15"
+  },
+  {
+    "id": "1757917602844",
+    "title": "Karakul fur effect sweater",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1757917595555.jpeg",
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1757917597215.png"
+    ],
+    "shortDescription": "light blue handmade felted sleeveless sweater with karakul fur look",
+    "fullDescription": "light blue handmade felted sleeveless sweater with karakul fur look",
+    "story": "The creation story of this work will be added later.",
+    "price": "$70",
+    "materials": [
+      "wool",
+      "viscose"
+    ],
+    "dimensions": "50x50 cm",
+    "created": "2025-09-15"
   }
 ]
