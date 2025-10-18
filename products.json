@@ -1,12 +1,5 @@
 [
   {
-    "title": "Beginning of fall",
-    "shortDescription": "This shawl  is a handmade one",
-    "category": "clothing",
-    "price": "85$",
-    "source": "github"
-  },
-  {
     "id": "1754030089575",
     "title": "Starry Night jacket",
     "category": "clothing",
