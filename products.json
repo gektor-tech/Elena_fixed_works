@@ -18,7 +18,7 @@
     ],
     "dimensions": "40x50 cm",
     "created": "2024-01-15",
-    "source": "local"
+    "source": "github"
   },
   {
     "title": "Dragonfly in Summer",
@@ -28,7 +28,7 @@
     "images": [],
     "materials": [],
     "created": "2025-10-18",
-    "source": "github"
+    "source": "local"
   },
   {
     "id": "3",
@@ -414,10 +414,10 @@
     "source": "github"
   },
   {
-    "title": "Wald of Sun",
-    "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns",
+    "title": "Dragonfly in Summer",
+    "shortDescription": "Vibrant embroidery of a detailed dragonfly with intricate wing patterns in blue and green tones.",
     "category": "painting",
-    "price": "SOLD OUT",
+    "price": "$65",
     "images": [],
     "materials": [],
     "created": "2025-10-18",
