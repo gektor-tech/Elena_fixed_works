@@ -1,16 +1,9 @@
 [
   {
     "title": "Beginning of fall",
-    "shortDescription": "This shawl  is a handmade one.1",
+    "shortDescription": "This shawl  is a handmade one.",
     "category": "clothing",
     "price": "85$",
-    "source": "github"
-  },
-  {
-    "title": "Starry Night jacket",
-    "shortDescription": "Inspired by Van Gogh &quot;Starry night &quot;picture jacket",
-    "category": "clothing",
-    "price": "SOLD OUT",
     "source": "github"
   },
   {
