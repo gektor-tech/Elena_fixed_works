@@ -1,16 +1,9 @@
 [
   {
     "title": "Beginning of fall",
-    "shortDescription": "This shawl  is a handmade one.",
+    "shortDescription": "This shawl  is a handmade one",
     "category": "clothing",
     "price": "85$",
-    "source": "github"
-  },
-  {
-    "title": "Spring coat",
-    "shortDescription": "Tan color wool, silk, viscose long coat decorated with silk and viscose flowers. Long sleeves decorated the same way",
-    "category": "clothing",
-    "price": "SOLD OUT",
     "source": "github"
   },
   {
