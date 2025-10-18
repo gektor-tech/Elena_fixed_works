@@ -1,23 +1,12 @@
 [
   {
-    "id": "1",
     "title": "Wald of Sun",
+    "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns.",
     "category": "painting",
-    "images": [
-      "/lovable-uploads/3fca22aa-627b-4cb6-9425-55a4908e014b.png"
-    ],
-    "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns",
-    "fullDescription": "This intricate embroidery depicts a mystical sun deity with flowing hair and ornate decorative elements. Created using needle felting and wet felting techniques, the piece combines warm golden tones with delicate facial features and symbolic patterns.",
-    "story": "Inspired by ancient sun worship and forest spirits, this embroidered piece represents the life-giving energy of the sun filtering through woodland canopies.",
     "price": "$65",
-    "materials": [
-      "Australian merino wool",
-      "Silk fibers",
-      "Natural golden dyes",
-      "Canvas base"
-    ],
-    "dimensions": "40x50 cm",
-    "created": "2024-01-15",
+    "images": [],
+    "materials": [],
+    "created": "2025-10-18",
     "source": "github"
   },
   {
@@ -162,7 +151,7 @@
     ],
     "dimensions": "L-XL Size",
     "created": "2024-09-02",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-3",
@@ -265,14 +254,24 @@
     "source": "github"
   },
   {
+    "id": "clothing-8",
     "title": "Gray Garden Bloom Embroidered Top",
-    "shortDescription": "Charming gray short-sleeve top featuring a vibrant embroidered flower garden with purple, white, and yellow blooms.",
     "category": "clothing",
+    "images": [
+      "/lovable-uploads/af4510f5-4a85-42c6-986e-53a4e6bfad5b.png"
+    ],
+    "shortDescription": "Charming gray short-sleeve top featuring a vibrant embroidered flower garden with purple, white, and yellow blooms",
+    "fullDescription": "This delightful short-sleeve top in soft gray showcases a stunning embroidered flower garden across the front. The intricate needlework features clusters of purple, white, and yellow flowers nestled among rich green foliage, creating a three-dimensional garden scene. The comfortable fit and quality construction make this piece perfect for everyday wear with an artistic touch.",
+    "story": "Inspired by English cottage gardens in full bloom, this top captures the joy and abundance of a spring flower garden. Each embroidered bloom represents the beauty of nature and the meditative art of needlework, bringing wearable garden magic to everyday life.",
     "price": "$70",
-    "images": [],
-    "materials": [],
-    "created": "2025-10-18",
-    "source": "github"
+    "materials": [
+      "Gray cotton blend",
+      "Embroidered floral garden",
+      "Multi-colored thread work"
+    ],
+    "dimensions": "M-L Size",
+    "created": "2024-09-08",
+    "source": "local"
   },
   {
     "id": "clothing-9",
@@ -415,10 +414,10 @@
     "source": "github"
   },
   {
-    "title": "Pearl Stripe Top",
-    "shortDescription": "Elegant striped top in pearl and grey tones with scoop neckline, crafted from wool, silk, and cotton blend.",
+    "title": "Gray Garden Bloom Embroidered Top",
+    "shortDescription": "Charming gray short-sleeve top featuring a vibrant embroidered flower garden with purple, white, and yellow blooms.",
     "category": "clothing",
-    "price": "$65",
+    "price": "$70",
     "images": [],
     "materials": [],
     "created": "2025-10-18",
