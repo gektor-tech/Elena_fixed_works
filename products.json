@@ -150,10 +150,24 @@
     "created": "2025-10-15"
   },
   {
+    "id": "1",
     "title": "Wald of Sun",
-    "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns",
     "category": "painting",
-    "price": "SOLD OUT"
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/3fca22aa-627b-4cb6-9425-55a4908e014b.png"
+    ],
+    "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns.",
+    "fullDescription": "This intricate embroidery depicts a mystical sun deity with flowing hair and ornate decorative elements. Created using needle felting and wet felting techniques, the piece combines warm golden tones with delicate facial features and symbolic patterns.",
+    "story": "Inspired by ancient sun worship and forest spirits, this embroidered piece represents the life-giving energy of the sun filtering through woodland canopies.",
+    "price": "65$",
+    "materials": [
+      "Australian merino wool",
+      "Silk fibers",
+      "Natural golden dyes",
+      "Canvas base"
+    ],
+    "dimensions": "40x50 cm",
+    "created": "2024-01-15"
   },
   {
     "id": "local-2",
