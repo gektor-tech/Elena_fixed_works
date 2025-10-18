@@ -39,7 +39,7 @@
     ],
     "dimensions": "35x45 cm",
     "created": "2024-02-20",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "3",
@@ -145,14 +145,24 @@
     "source": "github"
   },
   {
+    "id": "clothing-2",
     "title": "Pearl Stripe Top",
-    "shortDescription": "Elegant striped top in pearl and grey tones with scoop neckline, crafted from wool, silk, and cotton blend.",
     "category": "clothing",
+    "images": [
+      "/lovable-uploads/2008d6e4-8ef3-4f34-8a0d-619de41b648d.png"
+    ],
+    "shortDescription": "Elegant striped top in pearl and grey tones with scoop neckline, crafted from wool, silk, and cotton blend",
+    "fullDescription": "This sophisticated striped top features beautiful pearl and grey horizontal stripes with a flattering scoop neckline and comfortable short sleeves. Made from a luxurious blend of wool, silk, and cotton, it offers both comfort and elegance. The relaxed fit makes it perfect for layering or wearing on its own.",
+    "story": "Inspired by the timeless appeal of nautical stripes with a modern twist, this top combines the warmth of wool, the luxury of silk, and the comfort of cotton to create a versatile piece that transitions beautifully from casual to sophisticated settings.",
     "price": "$65",
-    "images": [],
-    "materials": [],
-    "created": "2025-10-18",
-    "source": "github"
+    "materials": [
+      "Wool",
+      "Silk",
+      "Cotton blend"
+    ],
+    "dimensions": "L-XL Size",
+    "created": "2024-09-02",
+    "source": "local"
   },
   {
     "id": "clothing-3",
@@ -255,23 +265,13 @@
     "source": "github"
   },
   {
-    "id": "clothing-8",
     "title": "Gray Garden Bloom Embroidered Top",
+    "shortDescription": "Charming gray short-sleeve top featuring a vibrant embroidered flower garden with purple, white, and yellow blooms.",
     "category": "clothing",
-    "images": [
-      "/lovable-uploads/af4510f5-4a85-42c6-986e-53a4e6bfad5b.png"
-    ],
-    "shortDescription": "Charming gray short-sleeve top featuring a vibrant embroidered flower garden with purple, white, and yellow blooms",
-    "fullDescription": "This delightful short-sleeve top in soft gray showcases a stunning embroidered flower garden across the front. The intricate needlework features clusters of purple, white, and yellow flowers nestled among rich green foliage, creating a three-dimensional garden scene. The comfortable fit and quality construction make this piece perfect for everyday wear with an artistic touch.",
-    "story": "Inspired by English cottage gardens in full bloom, this top captures the joy and abundance of a spring flower garden. Each embroidered bloom represents the beauty of nature and the meditative art of needlework, bringing wearable garden magic to everyday life.",
     "price": "$70",
-    "materials": [
-      "Gray cotton blend",
-      "Embroidered floral garden",
-      "Multi-colored thread work"
-    ],
-    "dimensions": "M-L Size",
-    "created": "2024-09-08",
+    "images": [],
+    "materials": [],
+    "created": "2025-10-18",
     "source": "github"
   },
   {
@@ -415,9 +415,9 @@
     "source": "github"
   },
   {
-    "title": "Dragonfly in Summer",
-    "shortDescription": "Vibrant embroidery of a detailed dragonfly with intricate wing patterns in blue and green tones.",
-    "category": "painting",
+    "title": "Pearl Stripe Top",
+    "shortDescription": "Elegant striped top in pearl and grey tones with scoop neckline, crafted from wool, silk, and cotton blend.",
+    "category": "clothing",
     "price": "$65",
     "images": [],
     "materials": [],
