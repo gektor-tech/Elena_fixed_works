@@ -1,10 +1,59 @@
 [
   {
-    "title": "Fur coat",
-    "shortDescription": "Turquoise natural wool yarn fur  coat. It is pretty  warm for hard winter and cosy to wear",
+    "id": "1753971828422",
+    "title": "Beginning of fall",
     "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1753971826588.PNG"
+    ],
+    "shortDescription": "This shawl  is a handmade one.",
+    "fullDescription": "Austrelian merino wool silk and viscose fiber have been put on the thinnest silk the way to create the complicated ornament of green, brown and orange -autumn beginning colors.",
+    "story": "The creation story of this work will be added later.",
+    "price": "85$",
+    "materials": [
+      "wool",
+      "silk",
+      "viscose"
+    ],
+    "dimensions": "50x50 cm",
+    "created": "2025-07-31"
+  },
+  {
+    "id": "1754030089575",
+    "title": "Starry Night jacket",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1754030087021.JPG"
+    ],
+    "shortDescription": "Inspired by Van Gogh &quot;Starry night &quot;picture jacket.",
+    "fullDescription": "&quot;Starry night&quot; picture motive was put on front and partly on sleeves.",
+    "story": "The creation story of this work will be added later.",
     "price": "SOLD OUT",
-    "source": "github"
+    "materials": [
+      "wool",
+      "silk",
+      "viscose"
+    ],
+    "dimensions": "M-L",
+    "created": "2025-08-01"
+  },
+  {
+    "id": "1754097357464",
+    "title": "Fur coat",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1754097356064.png"
+    ],
+    "shortDescription": "Turquoise natural wool yarn fur  coat. It is pretty  warm for hard winter and cosy to wear.",
+    "fullDescription": "Turquoise natural wool yarn fur  coat. It is pretty  warm for hard winter and cosy to wear.",
+    "story": "The creation story of this work will be added later.",
+    "price": "SOLD OUT",
+    "materials": [
+      "wool yarn",
+      "wool fibre"
+    ],
+    "dimensions": "M",
+    "created": "2025-08-02"
   },
   {
     "id": "1754097672061",
@@ -23,8 +72,7 @@
       "viscose"
     ],
     "dimensions": "S",
-    "created": "2025-08-02",
-    "source": "github"
+    "created": "2025-08-02"
   },
   {
     "id": "1754101135816",
@@ -43,8 +91,7 @@
       "viscose"
     ],
     "dimensions": "50x50 cm",
-    "created": "2025-08-02",
-    "source": "github"
+    "created": "2025-08-02"
   },
   {
     "id": "1755692088981",
@@ -63,8 +110,7 @@
       "viscose"
     ],
     "dimensions": "M-L",
-    "created": "2025-08-20",
-    "source": "github"
+    "created": "2025-08-20"
   },
   {
     "id": "1757917184324",
@@ -83,8 +129,7 @@
       "viscose"
     ],
     "dimensions": "M-L",
-    "created": "2025-09-15",
-    "source": "github"
+    "created": "2025-09-15"
   },
   {
     "id": "1757917602844",
@@ -103,8 +148,7 @@
       "viscose"
     ],
     "dimensions": "50x50 cm",
-    "created": "2025-09-15",
-    "source": "github"
+    "created": "2025-09-15"
   },
   {
     "id": "1760558398112",
@@ -122,8 +166,7 @@
       "viscose"
     ],
     "dimensions": "74.5X22.5",
-    "created": "2025-10-15",
-    "source": "github"
+    "created": "2025-10-15"
   },
   {
     "id": "local-1",
@@ -143,8 +186,7 @@
       "Canvas base"
     ],
     "dimensions": "40x50 cm",
-    "created": "2024-01-15",
-    "source": "github"
+    "created": "2024-01-15"
   },
   {
     "id": "local-2",
@@ -164,8 +206,7 @@
       "Linen base"
     ],
     "dimensions": "35x45 cm",
-    "created": "2024-02-20",
-    "source": "github"
+    "created": "2024-02-20"
   },
   {
     "id": "local-3",
@@ -185,8 +226,7 @@
       "Canvas base"
     ],
     "dimensions": "40x55 cm",
-    "created": "2024-03-10",
-    "source": "github"
+    "created": "2024-03-10"
   },
   {
     "id": "local-4",
@@ -206,8 +246,7 @@
       "Felt base"
     ],
     "dimensions": "30x40 cm",
-    "created": "2024-04-05",
-    "source": "github"
+    "created": "2024-04-05"
   },
   {
     "id": "local-5",
@@ -227,8 +266,7 @@
       "Felt base"
     ],
     "dimensions": "30x40 cm",
-    "created": "2024-05-12",
-    "source": "github"
+    "created": "2024-05-12"
   },
   {
     "id": "local-6",
@@ -248,8 +286,7 @@
       "Canvas base"
     ],
     "dimensions": "45x60 cm",
-    "created": "2024-06-18",
-    "source": "github"
+    "created": "2024-06-18"
   },
   {
     "id": "local-clothing-1",
@@ -267,8 +304,7 @@
       "Handmade construction"
     ],
     "dimensions": "L Size",
-    "created": "2024-09-01",
-    "source": "github"
+    "created": "2024-09-01"
   },
   {
     "id": "local-clothing-2",
@@ -287,8 +323,7 @@
       "Cotton blend"
     ],
     "dimensions": "L-XL Size",
-    "created": "2024-09-02",
-    "source": "github"
+    "created": "2024-09-02"
   },
   {
     "id": "local-clothing-3",
@@ -306,8 +341,7 @@
       "Mixed fabric patches",
       "Quilted construction"
     ],
-    "created": "2024-09-03",
-    "source": "github"
+    "created": "2024-09-03"
   },
   {
     "id": "local-clothing-4",
@@ -326,8 +360,7 @@
       "Blanket stitch finishing"
     ],
     "dimensions": "M-L Size",
-    "created": "2024-09-04",
-    "source": "github"
+    "created": "2024-09-04"
   },
   {
     "id": "local-clothing-5",
@@ -347,8 +380,7 @@
       "Handcrafted construction"
     ],
     "dimensions": "M-L Size",
-    "created": "2024-09-05",
-    "source": "github"
+    "created": "2024-09-05"
   },
   {
     "id": "local-clothing-6",
@@ -367,8 +399,7 @@
       "Scalloped hem detail"
     ],
     "dimensions": "M-L Size",
-    "created": "2024-09-06",
-    "source": "github"
+    "created": "2024-09-06"
   },
   {
     "id": "local-clothing-7",
@@ -387,8 +418,7 @@
       "Purple trim details"
     ],
     "dimensions": "M-L Size",
-    "created": "2024-09-07",
-    "source": "github"
+    "created": "2024-09-07"
   },
   {
     "id": "local-clothing-8",
@@ -407,8 +437,7 @@
       "Multi-colored thread work"
     ],
     "dimensions": "M-L Size",
-    "created": "2024-09-08",
-    "source": "github"
+    "created": "2024-09-08"
   },
   {
     "id": "local-clothing-9",
@@ -427,8 +456,7 @@
       "Leaf pattern design"
     ],
     "dimensions": "M-L Size",
-    "created": "2024-09-09",
-    "source": "github"
+    "created": "2024-09-09"
   },
   {
     "id": "local-clothing-10",
@@ -447,8 +475,7 @@
       "Green contrast trim"
     ],
     "dimensions": "M-L Size",
-    "created": "2024-09-10",
-    "source": "github"
+    "created": "2024-09-10"
   },
   {
     "id": "local-clothing-11",
@@ -467,8 +494,7 @@
       "Hand-knitted details"
     ],
     "dimensions": "M-L Size",
-    "created": "2024-09-11",
-    "source": "github"
+    "created": "2024-09-11"
   },
   {
     "id": "local-accessory-1",
@@ -487,8 +513,7 @@
       "Metal snap closure"
     ],
     "dimensions": "25x20 cm",
-    "created": "2024-08-05",
-    "source": "github"
+    "created": "2024-08-05"
   },
   {
     "id": "local-accessory-2",
@@ -507,8 +532,7 @@
       "Metal snap closure"
     ],
     "dimensions": "26x22 cm",
-    "created": "2024-08-10",
-    "source": "github"
+    "created": "2024-08-10"
   },
   {
     "id": "local-accessory-3",
@@ -527,8 +551,7 @@
       "Metal snap closure"
     ],
     "dimensions": "24x19 cm",
-    "created": "2024-08-15",
-    "source": "github"
+    "created": "2024-08-15"
   },
   {
     "id": "local-accessory-4",
@@ -547,7 +570,6 @@
       "Metal snap closure"
     ],
     "dimensions": "25x21 cm",
-    "created": "2024-08-20",
-    "source": "github"
+    "created": "2024-08-20"
   }
 ]
