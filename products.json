@@ -1,24 +1,13 @@
 [
   {
-    "id": "1",
     "title": "Wald of Sun",
-    "category": "painting",
-    "images": [
-      "/lovable-uploads/3fca22aa-627b-4cb6-9425-55a4908e014b.png"
-    ],
     "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns",
-    "fullDescription": "This intricate embroidery depicts a mystical sun deity with flowing hair and ornate decorative elements. Created using needle felting and wet felting techniques, the piece combines warm golden tones with delicate facial features and symbolic patterns.",
-    "story": "Inspired by ancient sun worship and forest spirits, this embroidered piece represents the life-giving energy of the sun filtering through woodland canopies.",
-    "price": "$65",
-    "materials": [
-      "Australian merino wool",
-      "Silk fibers",
-      "Natural golden dyes",
-      "Canvas base"
-    ],
-    "dimensions": "40x50 cm",
-    "created": "2024-01-15",
-    "source": "local"
+    "category": "painting",
+    "price": "SOLD OUT",
+    "images": [],
+    "materials": [],
+    "created": "2025-10-18",
+    "source": "github"
   },
   {
     "id": "2",
@@ -591,16 +580,6 @@
     ],
     "dimensions": "50x50 cm",
     "created": "2025-09-15",
-    "source": "github"
-  },
-  {
-    "title": "abstract motive scarf",
-    "shortDescription": "handmade.",
-    "category": "clothing",
-    "price": "$150.00",
-    "images": [],
-    "materials": [],
-    "created": "2025-10-18",
     "source": "github"
   }
 ]
