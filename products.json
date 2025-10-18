@@ -1,5 +1,4 @@
 [
-  [
   {
     "id": "1753971828422",
     "title": "Beginning of fall",
@@ -533,7 +532,7 @@
       "Metal snap closure"
     ],
     "dimensions": "26x22 cm",
-    "created": "2024-08-10"
+    "created": "2024-08-20"
   },
   {
     "id": "local-accessory-3",
@@ -573,5 +572,4 @@
     "dimensions": "25x21 cm",
     "created": "2024-08-20"
   }
-]
 ]
