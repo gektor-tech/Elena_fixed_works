@@ -1,12 +1,23 @@
 [
   {
+    "id": "1",
     "title": "Wald of Sun",
-    "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns",
     "category": "painting",
-    "price": "SOLD OUT",
-    "images": [],
-    "materials": [],
-    "created": "2025-10-18",
+    "images": [
+      "/lovable-uploads/3fca22aa-627b-4cb6-9425-55a4908e014b.png"
+    ],
+    "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns",
+    "fullDescription": "This intricate embroidery depicts a mystical sun deity with flowing hair and ornate decorative elements. Created using needle felting and wet felting techniques, the piece combines warm golden tones with delicate facial features and symbolic patterns.",
+    "story": "Inspired by ancient sun worship and forest spirits, this embroidered piece represents the life-giving energy of the sun filtering through woodland canopies.",
+    "price": "$65",
+    "materials": [
+      "Australian merino wool",
+      "Silk fibers",
+      "Natural golden dyes",
+      "Canvas base"
+    ],
+    "dimensions": "40x50 cm",
+    "created": "2024-01-15",
     "source": "local"
   },
   {
@@ -418,10 +429,10 @@
     "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns",
     "category": "painting",
     "price": "SOLD OUT",
-    "source": "github",
     "images": [],
     "materials": [],
-    "created": "2025-10-18"
+    "created": "2025-10-18",
+    "source": "github"
   },
   {
     "id": "1753971828422",
@@ -583,22 +594,13 @@
     "source": "github"
   },
   {
-    "id": "1760558398112",
     "title": "abstract motive scarf",
+    "shortDescription": "handmade.",
     "category": "clothing",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1760558396091.PNG"
-    ],
-    "shortDescription": "handmade",
-    "fullDescription": "handmade",
-    "story": "The creation story of this work will be added later.",
     "price": "$150.00",
-    "materials": [
-      "wool",
-      "viscose"
-    ],
-    "dimensions": "74.5X22.5",
-    "created": "2025-10-15",
+    "images": [],
+    "materials": [],
+    "created": "2025-10-18",
     "source": "github"
   }
 ]
