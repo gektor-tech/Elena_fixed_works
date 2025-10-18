@@ -151,17 +151,17 @@
     "created": "2025-09-15"
   },
   {
-    "id":"1760558396091",
+    "id": "1760558396091",
     "title": "Abstract motive scarf",
     "category": "clothing",
     "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1760558396091.PNG",
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1760558396091.PNG"
     ],
     "shortDescription": "handmade",
     "fullDescription": "light blue handmade felted sleeveless sweater with karakul fur look",
     "story": "The creation story of this work will be added later.",
     "price": "$150.00",
-    "materials":[
+    "materials": [
       "wool"
     ],
     "dimensions": "50x50 cm",
