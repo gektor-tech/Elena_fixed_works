@@ -4,6 +4,9 @@
     "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns",
     "category": "painting",
     "price": "SOLD OUT",
+    "images": [],
+    "materials": [],
+    "created": "2025-10-18",
     "source": "local"
   },
   {
@@ -25,7 +28,7 @@
     ],
     "dimensions": "35x45 cm",
     "created": "2024-02-20",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "3",
@@ -46,7 +49,7 @@
     ],
     "dimensions": "40x55 cm",
     "created": "2024-03-10",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "4",
@@ -67,7 +70,7 @@
     ],
     "dimensions": "30x40 cm",
     "created": "2024-04-05",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "5",
@@ -88,7 +91,7 @@
     ],
     "dimensions": "30x40 cm",
     "created": "2024-05-12",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "6",
@@ -109,7 +112,7 @@
     ],
     "dimensions": "45x60 cm",
     "created": "2024-06-18",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-1",
@@ -128,7 +131,7 @@
     ],
     "dimensions": "L Size",
     "created": "2024-09-01",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-2",
@@ -148,7 +151,7 @@
     ],
     "dimensions": "L-XL Size",
     "created": "2024-09-02",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-3",
@@ -167,7 +170,7 @@
       "Quilted construction"
     ],
     "created": "2024-09-03",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-4",
@@ -187,7 +190,7 @@
     ],
     "dimensions": "M-L Size",
     "created": "2024-09-04",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-5",
@@ -208,7 +211,7 @@
     ],
     "dimensions": "M-L Size",
     "created": "2024-09-05",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-6",
@@ -228,7 +231,7 @@
     ],
     "dimensions": "M-L Size",
     "created": "2024-09-06",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-7",
@@ -248,7 +251,7 @@
     ],
     "dimensions": "M-L Size",
     "created": "2024-09-07",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-8",
@@ -268,7 +271,7 @@
     ],
     "dimensions": "M-L Size",
     "created": "2024-09-08",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-9",
@@ -288,7 +291,7 @@
     ],
     "dimensions": "M-L Size",
     "created": "2024-09-09",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-10",
@@ -308,7 +311,7 @@
     ],
     "dimensions": "M-L Size",
     "created": "2024-09-10",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "clothing-11",
@@ -328,7 +331,7 @@
     ],
     "dimensions": "M-L Size",
     "created": "2024-09-11",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "28",
@@ -348,7 +351,7 @@
     ],
     "dimensions": "25x20 cm",
     "created": "2024-08-05",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "29",
@@ -368,7 +371,7 @@
     ],
     "dimensions": "26x22 cm",
     "created": "2024-08-10",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "30",
@@ -388,7 +391,7 @@
     ],
     "dimensions": "24x19 cm",
     "created": "2024-08-15",
-    "source": "local"
+    "source": "github"
   },
   {
     "id": "31",
@@ -408,7 +411,17 @@
     ],
     "dimensions": "25x21 cm",
     "created": "2024-08-20",
-    "source": "local"
+    "source": "github"
+  },
+  {
+    "title": "Wald of Sun",
+    "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns",
+    "category": "painting",
+    "price": "SOLD OUT",
+    "source": "github",
+    "images": [],
+    "materials": [],
+    "created": "2025-10-18"
   },
   {
     "id": "1753971828422",
