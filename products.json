@@ -151,21 +151,9 @@
     "created": "2025-09-15"
   },
   {
-    "id": "1760558398112",
     "title": "abstract motive scarf",
+    "shortDescription": "handmade(check)",
     "category": "clothing",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1760558396091.PNG"
-    ],
-    "shortDescription": "handmade",
-    "fullDescription": "handmade",
-    "story": "The creation story of this work will be added later.",
-    "price": "$150.00",
-    "materials": [
-      "wool",
-      "viscose"
-    ],
-    "dimensions": "74.5X22.5",
-    "created": "2025-10-15"
+    "price": "$150.00"
   }
 ]
