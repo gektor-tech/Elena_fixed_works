@@ -159,7 +159,7 @@
     "shortDescription": "Mystical embroidery featuring a radiant sun figure surrounded by ornate golden patterns.",
     "fullDescription": "This intricate embroidery depicts a mystical sun deity with flowing hair and ornate decorative elements. Created using needle felting and wet felting techniques, the piece combines warm golden tones with delicate facial features and symbolic patterns.",
     "story": "Inspired by ancient sun worship and forest spirits, this embroidered piece represents the life-giving energy of the sun filtering through woodland canopies.",
-    "price": "SOLD OUT$",
+    "price": "$SOLD OUT",
     "materials": [
       "Australian merino wool",
       "Silk fibers",
@@ -589,24 +589,5 @@
     ],
     "dimensions": "24 x 17.5 inch",
     "created": "2025-10-21"
-  },
-  {
-    "id": "1761407230574",
-    "title": "Blue Knitted like Jacket",
-    "category": "clothing",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1761407224923.png"
-    ],
-    "shortDescription": "handmade, two pockets, lined with cotton",
-    "fullDescription": "handmade, two pockets, lined with cotton",
-    "story": "The creation story of this work will be added later.",
-    "price": "$180",
-    "materials": [
-      "wool",
-      "silk",
-      "viscose"
-    ],
-    "dimensions": "M-L",
-    "created": "2025-10-25"
   }
 ]
