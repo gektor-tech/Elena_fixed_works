@@ -589,24 +589,5 @@
     ],
     "dimensions": "24 x 17.5 inch",
     "created": "2025-10-21"
-  },
-  {
-    "id": "1761750710805",
-    "title": "Flower on ice",
-    "category": "clothing",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1761750704905.jpeg"
-    ],
-    "shortDescription": "handmade",
-    "fullDescription": "handmade",
-    "story": "The creation story of this work will be added later.",
-    "price": "",
-    "materials": [
-      "wool",
-      "silk",
-      "viscose"
-    ],
-    "dimensions": "L",
-    "created": "2025-10-29"
   }
 ]
