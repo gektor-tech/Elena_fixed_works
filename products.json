@@ -589,24 +589,5 @@
     ],
     "dimensions": "24 x 17.5 inch",
     "created": "2025-10-21"
-  },
-  {
-    "id": "1761770982897",
-    "title": "Purple mist",
-    "category": "clothing",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1761770981466.jpeg"
-    ],
-    "shortDescription": "handmade hoodie",
-    "fullDescription": "handmade hoodie",
-    "story": "The creation story of this work will be added later.",
-    "price": "$180",
-    "materials": [
-      "wool",
-      "silk",
-      "viscose"
-    ],
-    "dimensions": "A-M",
-    "created": "2025-10-29"
   }
 ]
