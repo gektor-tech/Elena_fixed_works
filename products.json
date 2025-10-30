@@ -554,25 +554,40 @@
     "created": "2024-08-20"
   },
   {
+    "id": "1753971828422",
     "title": "Beginning of fall",
     "category": "clothing",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1753971826588.PNG"
+    ],
     "shortDescription": "This shawl is a handmade one.",
-    "fullDescription": "",
-    "story": "",
-    "price": "$SOLDOUT",
-    "materials": [],
-    "created": "2025-10-30T22:16:07.321Z"
+    "fullDescription": "Austrelian merino wool silk and viscose fiber have been put on the thinnest silk the way to create the complicated ornament of green, brown and orange -autumn beginning colors.",
+    "story": "The creation story of this work will be added later.",
+    "price": "$85",
+    "materials": [
+      "wool",
+      "silk",
+      "viscose"
+    ],
+    "dimensions": "50x50 cm",
+    "created": "2025-07-31"
   },
   {
+    "id": "1761068246775",
     "title": "Egyptian motifs",
     "category": "painting",
-    "images": [],
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1761068244976.jpg"
+    ],
     "shortDescription": "handmade felted, light weight wall picture,\n no drilling wells, just pin",
-    "fullDescription": "",
-    "story": "",
-    "price": "$85",
-    "materials": [],
-    "created": "2025-10-30T22:15:38.112Z"
+    "fullDescription": "handmade felted, light weight wall picture,\n no drilling wells, just pin",
+    "story": "The creation story of this work will be added later.",
+    "price": "$80",
+    "materials": [
+      "wool",
+      "viscose"
+    ],
+    "dimensions": "24 x 17.5 inch",
+    "created": "2025-10-21"
   }
 ]
