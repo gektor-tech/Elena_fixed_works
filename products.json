@@ -563,7 +563,7 @@
     "shortDescription": "This shawl is a handmade one.",
     "fullDescription": "Austrelian merino wool silk and viscose fiber have been put on the thinnest silk the way to create the complicated ornament of green, brown and orange -autumn beginning colors.",
     "story": "The creation story of this work will be added later.",
-    "price": "$85",
+    "price": "$SOLDOUT",
     "materials": [
       "wool",
       "silk",
