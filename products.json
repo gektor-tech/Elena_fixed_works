@@ -573,21 +573,14 @@
     "created": "2025-07-31"
   },
   {
-    "id": "1761068246775",
     "title": "Egyptian motifs",
     "category": "painting",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1761068244976.jpg"
-    ],
+    "images": [],
     "shortDescription": "handmade felted, light weight wall picture,\n no drilling wells, just pin",
-    "fullDescription": "handmade felted, light weight wall picture,\n no drilling wells, just pin",
-    "story": "The creation story of this work will be added later.",
-    "price": "$80",
-    "materials": [
-      "wool",
-      "viscose"
-    ],
-    "dimensions": "24 x 17.5 inch",
-    "created": "2025-10-21"
+    "fullDescription": "",
+    "story": "",
+    "price": "$SOLDOUT",
+    "materials": [],
+    "created": "2025-10-30T22:14:34.034Z"
   }
 ]
