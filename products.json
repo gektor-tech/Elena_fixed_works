@@ -554,23 +554,15 @@
     "created": "2024-08-20"
   },
   {
-    "id": "1753971828422",
     "title": "Beginning of fall",
     "category": "clothing",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1753971826588.PNG"
-    ],
+    "images": [],
     "shortDescription": "This shawl is a handmade one.",
-    "fullDescription": "Austrelian merino wool silk and viscose fiber have been put on the thinnest silk the way to create the complicated ornament of green, brown and orange -autumn beginning colors.",
-    "story": "The creation story of this work will be added later.",
-    "price": "$85",
-    "materials": [
-      "wool",
-      "silk",
-      "viscose"
-    ],
-    "dimensions": "50x50 cm",
-    "created": "2025-07-31"
+    "fullDescription": "",
+    "story": "",
+    "price": "$SOLDOUT",
+    "materials": [],
+    "created": "2025-10-30T22:16:07.321Z"
   },
   {
     "title": "Egyptian motifs",
