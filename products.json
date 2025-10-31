@@ -645,24 +645,5 @@
     ],
     "dimensions": "M-L",
     "created": "2025-10-25"
-  },
-  {
-    "id": "1761869940083",
-    "title": "hexadev",
-    "category": "clothing",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1761869938126.png"
-    ],
-    "shortDescription": "nice",
-    "fullDescription": "nice",
-    "story": "The creation story of this work will be added later.",
-    "price": "200",
-    "materials": [
-      "wool",
-      "silk",
-      "viscose"
-    ],
-    "dimensions": "L",
-    "created": "2025-10-31"
   }
 ]
