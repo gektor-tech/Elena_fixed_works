@@ -627,4 +627,23 @@
     "dimensions": "L",
     "created": "2025-10-31"
   }
+  {
+    "id": "1761407230574",
+    "title": "Blue Knitted like Jacket",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1761407224923.png"
+    ],
+    "shortDescription": "handmade, two pockets, lined with cotton",
+    "fullDescription": "handmade, two pockets, lined with cotton",
+    "story": "The creation story of this work will be added later.",
+    "price": "$180",
+    "materials": [
+      "wool",
+      "silk",
+      "viscose"
+    ],
+    "dimensions": "M-L",
+    "created": "2025-10-25"
+  }
 ]
