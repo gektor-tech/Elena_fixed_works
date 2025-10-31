@@ -607,24 +607,5 @@
     ],
     "dimensions": "S-M",
     "created": "2025-10-30"
-  },
-  {
-    "id": "1761868724912",
-    "title": "Flowers on Ice",
-    "category": "clothing",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1761868723342.jpg"
-    ],
-    "shortDescription": "Handmade sweater",
-    "fullDescription": "Handmade sweater",
-    "story": "The creation story of this work will be added later.",
-    "price": "$70",
-    "materials": [
-      "wool",
-      "silk",
-      "viscose"
-    ],
-    "dimensions": "L",
-    "created": "2025-10-30"
   }
 ]
