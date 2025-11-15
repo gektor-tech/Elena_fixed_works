@@ -645,5 +645,23 @@
     ],
     "dimensions": "M-L",
     "created": "2025-10-25"
+  },
+  {
+    "id": "1763248707476",
+    "title": "Dance of petals",
+    "category": "painting",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1763248704676.jpeg"
+    ],
+    "shortDescription": "handmade wall art",
+    "fullDescription": "handmade wall art",
+    "story": "The creation story of this work will be added later.",
+    "price": "$85",
+    "materials": [
+      "Wool",
+      "viscose"
+    ],
+    "dimensions": "25.6x22 inch (67x56 cm)",
+    "created": "2025-11-15"
   }
 ]
