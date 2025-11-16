@@ -663,5 +663,24 @@
     ],
     "dimensions": "25.6x22 inch (67x56 cm)",
     "created": "2025-11-15"
+  },
+  {
+    "id": "1763279867947",
+    "title": "Under the sea",
+    "category": "painting",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1763279865526.jpeg"
+    ],
+    "shortDescription": "handmade, inspired by a french fairy tail, wall art",
+    "fullDescription": "handmade, inspired by a french fairy tail, wall art",
+    "story": "The creation story of this work will be added later.",
+    "price": "$80",
+    "materials": [
+      "Wool",
+      "silk",
+      "viscose"
+    ],
+    "dimensions": "18x24 inch (46x60 cm)",
+    "created": "2025-11-16"
   }
 ]
