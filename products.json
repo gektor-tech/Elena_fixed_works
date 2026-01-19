@@ -701,5 +701,23 @@
     ],
     "dimensions": "27x20inch",
     "created": "2025-11-17"
+  },
+  {
+    "id": "1768831336660",
+    "title": "test",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1768831334118.png"
+    ],
+    "shortDescription": "The set includes a very warm ears covered hat and fingers free gloves hand felted from soft Australian merino wool, silk and viscose fibres",
+    "fullDescription": "The set includes a very warm ears covered hat and fingers free gloves hand felted from soft Australian merino wool, silk and viscose fibres",
+    "story": "The creation story of this work will be added later.",
+    "price": "$60",
+    "materials": [
+      "Soft Australian merino wool",
+      "silk and viscose fibres"
+    ],
+    "dimensions": "50x50 cm",
+    "created": "2026-01-19"
   }
 ]
