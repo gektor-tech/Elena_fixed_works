@@ -719,5 +719,22 @@
     ],
     "dimensions": "50x50 cm",
     "created": "2026-01-19"
+  },
+  {
+    "id": "1768831520993",
+    "title": "Scarf",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1768831519129.jpg"
+    ],
+    "shortDescription": "scarf",
+    "fullDescription": "scarf",
+    "story": "The creation story of this work will be added later.",
+    "price": "",
+    "materials": [
+      "wool"
+    ],
+    "dimensions": "60х14,5",
+    "created": "2026-01-19"
   }
 ]
