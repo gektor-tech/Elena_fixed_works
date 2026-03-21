@@ -700,5 +700,22 @@
     ],
     "dimensions": "50x50 cm",
     "created": "2026-01-19"
+  },
+  {
+    "id": "1774110375567",
+    "title": "Van Goh Jacket",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774110373389.png"
+    ],
+    "shortDescription": "A beautiful handmade jacket, 100% Australian wool.",
+    "fullDescription": "Felted jacket, 27 hours hand made, 100% australian wool.",
+    "story": "The creation story of this work will be added later.",
+    "price": "280",
+    "materials": [
+      "Wool"
+    ],
+    "dimensions": "Us 8",
+    "created": "2026-03-21"
   }
 ]
