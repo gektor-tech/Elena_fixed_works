@@ -699,5 +699,22 @@
     ],
     "dimensions": "Us 8",
     "created": "2026-03-21"
+  },
+  {
+    "id": "1774111809041",
+    "title": "Coat-Jacket",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774111806999.png"
+    ],
+    "shortDescription": "Wonderful Coat-Jacket",
+    "fullDescription": "This refined coat-jacket is a statement of modern craftsmanship and understated luxury.\nHandcrafted using the traditional wet felting technique, it required 64 hours of meticulous manual work. Natural wool, water, and skilled hands come together to create a rich, sculptural texture with depth and character — impossible to replicate through industrial production.\nEach piece is entirely unique, carrying the subtle variations and individuality that define true artisanal work.\nThe silhouette is both structured and fluid, offering a balance of softness, warmth, and quiet sophistication. Designed to elevate everyday wear as well as more curated looks, it functions as both a garment and a wearable work of art.\nSize: US 4\nTechnique: Wet felting\nCreation time: 64 hours of handwork\nPrice: $390\nCreated for those who value authenticity, rarity, and timeless design beyond fast fashion.",
+    "story": "The creation story of this work will be added later.",
+    "price": "$ sold out",
+    "materials": [
+      "Wool"
+    ],
+    "dimensions": "US4",
+    "created": "2026-03-21"
   }
 ]
