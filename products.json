@@ -1,24 +1,5 @@
 [
   {
-    "id": "1754030089575",
-    "title": "Starry Night jacket",
-    "category": "clothing",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1754030087021.JPG"
-    ],
-    "shortDescription": "Inspired by Van Gogh \"Starry night\" picture jacket.",
-    "fullDescription": "\"Starry night\" picture motive was put on front and partly on sleeves.",
-    "story": "The creation story of this work will be added later.",
-    "price": "SOLD OUT",
-    "materials": [
-      "wool",
-      "silk",
-      "viscose"
-    ],
-    "dimensions": "M-L",
-    "created": "2025-08-01"
-  },
-  {
     "id": "1754097357464",
     "title": "Fur coat",
     "category": "clothing",
