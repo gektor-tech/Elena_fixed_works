@@ -712,5 +712,24 @@
     ],
     "dimensions": "US6",
     "created": "2026-03-21"
+  },
+  {
+    "id": "1774115042508",
+    "title": "Floral Collar Adornment Blue",
+    "category": "accessories",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774115038298.png",
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774115040718.png"
+    ],
+    "shortDescription": "Floral Collar Neck Adornment",
+    "fullDescription": "Neck adornment crafted from natural wool using the traditional wet felting technique.\nFloral elements form a softly textured composition with subtle transitions of color and surface. Designed to sit along the collar line, it creates a refined and understated accent.\nCreation time: 4.5 hours of handwork\nPrice: $89",
+    "story": "The creation story of this work will be added later.",
+    "price": "$89",
+    "materials": [
+      "Wool",
+      "Perls"
+    ],
+    "dimensions": "UNI",
+    "created": "2026-03-21"
   }
 ]
