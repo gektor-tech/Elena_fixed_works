@@ -694,5 +694,24 @@
     ],
     "dimensions": "US6",
     "created": "2026-03-21"
+  },
+  {
+    "id": "1774117744470",
+    "title": "Structured Karakul West",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774117740119.png",
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774117742453.png"
+    ],
+    "shortDescription": "Structured Karakul West",
+    "fullDescription": "Structured Karakul\nHandcrafted using the traditional wet felting technique from a refined blend of wool and silk. The fabric develops a dense structure with a distinctive karakul texture and a subtle, natural sheen.\nThe silhouette is defined with precision, highlighting the depth of texture and the clarity of line. This piece requires complex, multi-stage handwork and a high level of craftsmanship.\nSize: US 6\nMaterial: Wool, silk\nPrice: $227",
+    "story": "The creation story of this work will be added later.",
+    "price": "$227",
+    "materials": [
+      "Wool",
+      "Silk"
+    ],
+    "dimensions": "US6",
+    "created": "2026-03-21"
   }
 ]
