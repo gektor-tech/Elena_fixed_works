@@ -365,25 +365,6 @@
     "created": "2024-09-11"
   },
   {
-    "id": "local-accessory-1",
-    "title": "Red Wool Viscose Handbag",
-    "category": "accessories",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/6f9a09ea-207f-49f6-831c-1009bbe9979b.png"
-    ],
-    "shortDescription": "Red wool viscose handmade handbag decorated with colored red shade flowers",
-    "fullDescription": "This beautiful handmade handbag is crafted from red wool viscose and decorated with elegant red shade flowers. The bag has inside pocket and snap closure for practical daily use.",
-    "story": "Inspired by blooming red flowers in summer gardens, this handbag brings natural beauty and craftsmanship together in perfect harmony.",
-    "price": "$65",
-    "materials": [
-      "Red wool viscose",
-      "Natural red dyes",
-      "Metal snap closure"
-    ],
-    "dimensions": "25x20 cm",
-    "created": "2024-08-05"
-  },
-  {
     "id": "local-accessory-2",
     "title": "White Wool Viscose Felted Purse",
     "category": "accessories",
