@@ -694,5 +694,23 @@
     ],
     "dimensions": "US6",
     "created": "2026-03-21"
+  },
+  {
+    "id": "1774202965317",
+    "title": "Atelier Red",
+    "category": "bags",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774202962946.png"
+    ],
+    "shortDescription": "Atelier Red",
+    "fullDescription": "Atelier. Red\nA refined silhouette in a rich red hue, shaped by the hand of the maker. Felted wool blended with viscose creates a soft, textured surface with depth and quiet sophistication, while delicate floral elements add a subtle artistic accent.\nEntirely handcrafted, the piece reflects a careful balance between expression and restraint. Designed to be both distinctive and effortlessly wearable in everyday life.\nDetails:\nSize: 25 × 20 cm\nMaterials: wool with viscose, natural dyes\nClosure: metal snap\nPrice: $87",
+    "story": "The creation story of this work will be added later.",
+    "price": "$87",
+    "materials": [
+      "Wool",
+      "viscose"
+    ],
+    "dimensions": "20x25cm",
+    "created": "2026-03-22"
   }
 ]
