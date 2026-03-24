@@ -708,5 +708,25 @@
     ],
     "dimensions": "US8",
     "created": "2026-03-24"
+  },
+  {
+    "id": "1774342984657",
+    "title": "Eternal Sun",
+    "category": "painting",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774342978529.png"
+    ],
+    "shortDescription": "Eternal sun",
+    "fullDescription": "A handcrafted felted piece made from Australian merino wool with silk fibers. Natural golden tones create a soft, luminous effect, adding depth and warmth to the composition.\nThe artwork is set on a canvas base, combining texture and subtle sheen to highlight the character of the material.\nSize: 15.7 × 19.7 inches\nMaterials: Australian merino wool, silk fibers, natural golden dyes, canvas base\nCreation date: January 15, 2024\n116$",
+    "story": "The creation story of this work will be added later.",
+    "price": "$ sold out",
+    "materials": [
+      "Wool",
+      "silk fibers",
+      "natural golden dyes",
+      "canvas base"
+    ],
+    "dimensions": "15,7x19,7 inc",
+    "created": "2026-03-24"
   }
 ]
