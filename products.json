@@ -711,5 +711,22 @@
     ],
     "dimensions": "US8",
     "created": "2026-03-24"
+  },
+  {
+    "id": "1774340827027",
+    "title": "Northern shade",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774340822396.png"
+    ],
+    "shortDescription": "Northern Shade",
+    "fullDescription": "This piece is shaped by hand from premium Australian wool, revealing the material through form and texture.\nApproximately 22 hours of work transform raw fiber into a structured yet fluid silhouette. The wool remains soft to the touch while holding its shape with quiet precision.\nThe deep navy tone — a Northern shade — brings a sense of calm, clarity, and understated elegance.\nA timeless garment defined not by excess, but by balance.",
+    "story": "The creation story of this work will be added later.",
+    "price": "$179",
+    "materials": [
+      "Wool"
+    ],
+    "dimensions": "US8",
+    "created": "2026-03-24"
   }
 ]
