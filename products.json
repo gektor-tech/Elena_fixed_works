@@ -711,5 +711,23 @@
     ],
     "dimensions": "15,7x19,7 inc",
     "created": "2026-03-24"
+  },
+  {
+    "id": "1774382254156",
+    "title": "Quiet Bloom",
+    "category": "clothing",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774382238822.png",
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774382246424.png"
+    ],
+    "shortDescription": "Quiet Bloom — Felted Wool Vest",
+    "fullDescription": "A study in quiet form and tactile expression.\nThis sleeveless vest is handcrafted from fine Australian merino wool, shaped through the slow, meticulous process of felting.\nIts soft lilac tone reveals depth rather than color, while the sculpted silhouette falls freely, never clinging to the body.\nAt the hem, petal-like elements emerge — a delicate interplay of velvet and wool, where texture becomes ornament.\nEach piece carries subtle variations, a signature of the human hand.\nTime, material, and intention — held in balance.",
+    "story": "A quiet exploration of form, texture, and time.\nHandcrafted through the slow process of felting, this vest is made from fine wool, shaped not by construction, but by touch.\n\nIts soft lilac tone reveals depth rather than color, while the silhouette remains free — gently following the body without ever clinging to it.\nAlong the hem, petal-like elements unfold, combining wool and velvet into a tactile, sculptural detail.\nEach piece is unique, marked by subtle variations that speak of the human hand.",
+    "price": "$ 129",
+    "materials": [
+      "Wool"
+    ],
+    "dimensions": "US6",
+    "created": "2026-03-24"
   }
 ]
