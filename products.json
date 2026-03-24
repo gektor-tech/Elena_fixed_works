@@ -157,24 +157,6 @@
     "created": "2024-06-18"
   },
   {
-    "id": "local-clothing-1",
-    "title": "Navy V-Neck Wool Vest",
-    "category": "clothing",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/6e80e5b2-af3d-4fac-8012-2a7353b92fd5.png"
-    ],
-    "shortDescription": "Elegant navy blue wool vest with deep V-neck design and short sleeves, handmade in L size",
-    "fullDescription": "This sophisticated navy blue wool vest features a classic V-neck design with short sleeves and a tailored fit. The rich navy color and high-quality wool construction make it a versatile piece for layering or wearing on its own. Handcrafted with attention to detail and finished to a professional standard.",
-    "story": "Inspired by timeless elegance and modern versatility, this navy wool vest embodies the perfect balance between classic tailoring and contemporary style. Each piece is handmade with care, ensuring unique character and lasting quality.",
-    "price": "$SOLD OUT",
-    "materials": [
-      "Navy wool",
-      "Handmade construction"
-    ],
-    "dimensions": "L Size",
-    "created": "2024-09-01"
-  },
-  {
     "id": "local-clothing-2",
     "title": "Pearl Stripe Top",
     "category": "clothing",
