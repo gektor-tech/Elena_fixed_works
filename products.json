@@ -57,26 +57,6 @@
     "created": "2024-03-10"
   },
   {
-    "id": "local-4",
-    "title": "Rose on Grey",
-    "category": "painting",
-    "images": [
-      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/31804f2d-7a9a-470f-8e03-bd6dd3f8e896.png"
-    ],
-    "shortDescription": "Elegant minimalist embroidery of a white rose with checkered ribbon on grey background",
-    "fullDescription": "This sophisticated embroidered piece features a delicate white rose with a distinctive checkered ribbon stem against a textured grey background. The contrast creates a striking and elegant composition.",
-    "story": "Inspired by the beauty of simplicity, this embroidered rose represents hope and purity emerging from neutral surroundings.",
-    "price": "$65",
-    "materials": [
-      "Fine merino wool",
-      "White silk",
-      "Natural grey dyes",
-      "Felt base"
-    ],
-    "dimensions": "30x40 cm",
-    "created": "2024-04-05"
-  },
-  {
     "id": "local-6",
     "title": "Abstract",
     "category": "painting",
