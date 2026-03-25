@@ -687,5 +687,22 @@
     ],
     "dimensions": "11.8 × 15.7 Inc",
     "created": "2026-03-25"
+  },
+  {
+    "id": "1774468982707",
+    "title": "Rose — Soft Grey",
+    "category": "painting",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774468972861.png"
+    ],
+    "shortDescription": "Rose- Soft grey",
+    "fullDescription": "A rose that exists almost like silence.\nSoft Grey is not merely a color, but a space between emotions — calm, clarity, and gentle melancholy.\nThe form becomes restrained, almost weightless, allowing texture to speak on its own.\nThis piece is about balance and stillness, where clarity begins to appear.",
+    "story": "Inspired by simplicity and quietness, this rose appears almost unnoticed — like a thought just beginning to form.\nSet against a soft grey surface, it becomes a symbol of purity and hope emerging from calm surroundings.\nIt is a study of the space between emotions, where everything unnecessary fades, leaving only essence.",
+    "price": "$ 122",
+    "materials": [
+      "Natural wool"
+    ],
+    "dimensions": "11.8 × 15.7",
+    "created": "2026-03-25"
   }
 ]
