@@ -668,5 +668,24 @@
     ],
     "dimensions": "13.8x17,7 inc",
     "created": "2026-03-25"
+  },
+  {
+    "id": "1774468810686",
+    "title": "Rose — Deep Wine",
+    "category": "painting",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774468802994.png"
+    ],
+    "shortDescription": "Rose — Deep Wine",
+    "fullDescription": "A rose shaped by depth and warmth.\nDeep Wine is not simply a color, but a state — mature, layered, and quietly intense.\nSoft silk petals meet a dense felt base, creating a balance between strength and delicacy.\nThis piece reflects a feeling that does not seek attention, yet remains deeply present",
+    "story": "Inspired by the beauty of simplicity, this rose unfolds from within the depth of color — like an emotion that needs no words.\nFrom the richness of deep wine, a form emerges where warmth and maturity meet the fragility of silk.\nIt is a story of inner strength — quiet, yet enduring.",
+    "price": "$ 128",
+    "materials": [
+      "Fine merino wool &amp;amp; silk fibers",
+      "Natural dyes",
+      "Felt base"
+    ],
+    "dimensions": "11.8 × 15.7 Inc",
+    "created": "2026-03-25"
   }
 ]
