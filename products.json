@@ -664,5 +664,23 @@
     ],
     "dimensions": "11.8 × 15.7",
     "created": "2026-03-25"
+  },
+  {
+    "id": "1774552020254",
+    "title": "Dancing girl",
+    "category": "painting",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774552007698.png"
+    ],
+    "shortDescription": "A beautiful dancing girl",
+    "fullDescription": "An expressive textile piece capturing the energy and rhythm of dance.\nFlowing lines, layered textures, and sculptural details create a strong sense of movement and freedom.\nDeep blues, soft violets, and warm golden accents bring balance between elegance and vitality, making the composition both dynamic and refined.\n\nHandcrafted from premium merino wool and golden silk fibers on a canvas base, using natural dyes.\nDimensions: approx. 15.7 × 21.7 inches (40 × 55 cm).\nCreated on March 10, 2024.\nTotal working time: 22 hours.",
+    "story": "Inspired by folk dances and the joy of movement, this piece reflects the freedom and expressive energy found in traditional dance forms.\nIt captures a moment where motion becomes emotion, and movement turns into a visual rhythm.",
+    "price": "$ 126",
+    "materials": [
+      "Wool",
+      "silk"
+    ],
+    "dimensions": "15,7x21,7 inc",
+    "created": "2026-03-26"
   }
 ]
