@@ -682,5 +682,22 @@
     ],
     "dimensions": "15,7x21,7 inc",
     "created": "2026-03-26"
+  },
+  {
+    "id": "1774552192111",
+    "title": "Abstract",
+    "category": "painting",
+    "images": [
+      "https://raw.githubusercontent.com/gektor-tech/Elena_fixed_works/main/images/product-1774552184091.png"
+    ],
+    "shortDescription": "Wonderful abstract",
+    "fullDescription": "This abstract felted wool composition features flowing, organic patterns in warm earth tones. The swirling forms evoke a sense of abundance, growth, and the natural rhythm of seasonal change, creating a calm yet dynamic visual movement.\n\nCrafted entirely from natural wool using traditional felting techniques, the piece reveals a rich, tactile surface where each layer is carefully shaped by hand.\n\nMaterials &amp; Details\nNatural wool · Earth-tone dyes · Organic fibers · Canvas base\n17.7 × 23.6 inches\nCreated: June 18, 2024",
+    "story": "Inspired by autumn harvests and the quiet transformation of nature, this piece reflects the beauty of organic growth and cyclical renewal. The flowing shapes and layered textures mirror the movement of leaves, soil, and time — capturing a moment where nature transitions yet remains deeply alive.",
+    "price": "$ sold out",
+    "materials": [
+      "Wool"
+    ],
+    "dimensions": "17,7x23,6 inc",
+    "created": "2026-03-26"
   }
 ]
